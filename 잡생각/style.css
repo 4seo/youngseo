@@ -1,0 +1,25 @@
+body {
+    font-family: pretendard, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  #container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 15px;
+  }
+  
+  .typography {
+    position: absolute;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
